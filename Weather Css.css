@@ -11,9 +11,8 @@ body
     justify-content: center;
     align-items: center;
     min-height: 100vh;
-    background: url('mountain-landscape-majestic-peak-tranquil-reflection-stunning-sunset-generated-by-ai.jpg');
-    /* background: url('Weather App/images/sunlight-shining-single-mountain-top-sunset-with-dark-cloudy-sky.jpg');
-    background: url('Weather App/images/beautiful-aerial-shot-fronalpstock-mountains-switzerland-beautiful-pink-blue-sky.jpg'); */
+   /* background: url('mountain-landscape-majestic-peak-tranquil-reflection-stunning-sunset-generated-by-ai.jpg');*/
+    background: url('beautiful-aerial-shot-fronalpstock-mountains-switzerland-beautiful-pink-blue-sky.jpg'');
     background-size: cover;
     background-position: center;
 }
